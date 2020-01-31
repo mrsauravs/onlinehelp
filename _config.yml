@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: Online Help
+# url: "https://long-pig.cloudvent.net"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
@@ -11,13 +11,13 @@ show_full_navigation: true
 logo: /siteicon.png
 description: Product documentation template for Jekyll.
 author:
-  name:
-  email:
+  name: Saurabh Sugandh
+  email: mrsauravs@gmail.com
   twitter: # twitter username without the @ symbol
-social:
-  name: Edition Template
-  links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+# social:
+# name: Edition Template
+# links:
+#    - https://github.com/mrsauravs
 
 # -----
 # Build
