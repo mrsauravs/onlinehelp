@@ -6,7 +6,7 @@ order: 1
 
 ownCloud X Server allows you to set up a private cloud storage server.
 
-> Download the latest stable release for installation and configuration.
+> Ensure that you download the latest stable release.
 
 To install ownCloud on Oracle VM VirtualBox:
 

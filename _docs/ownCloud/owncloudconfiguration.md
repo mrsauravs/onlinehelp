@@ -9,7 +9,7 @@ To configure ownCloud on Oracle VM VirtualBox:
 1. Open Oracle VM VirtualBox and start the ownCloud installed appliance.
  - *Tip*: Server boot might take upto five seconds.
 2. Select your desired language.
-3. Configure timezone, system locale, and keyboard layout, enter a city name.
+3. Configure timezone, system locale, and keyboard layout.
 - *Tip*: To configure automatically, enter the city name.
 4. Configure the network settings.
 5. Select *Obtain IP address automatically (DHCP)* and use the default settings.
