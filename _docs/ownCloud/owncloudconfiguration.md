@@ -24,4 +24,4 @@ To configure ownCloud on Oracle VM VirtualBox:
 12. To receive the license file, add your email address.
 13. Upload the received license file and complete the activation.
 
-![](//placehold.it/800x600)
+<!---![](//placehold.it/800x600)--->
