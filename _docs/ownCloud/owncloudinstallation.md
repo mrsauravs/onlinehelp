@@ -14,7 +14,7 @@ To install ownCloud on Oracle VM VirtualBox:
 2. Sign up and download the ownCloud OVA file.
 3. Open Oracle VM VirtualBox and navigate to *File* > *Import Appliance*.
 4. Browse and select the downloaded OVA file.
-5. (Optional) Modify the default settings, if required.
+5. (Optional) Modify the default settings.
 6. Accept the software license and click *Import*.
 
 <!---![](//placehold.it/800x600)--->
