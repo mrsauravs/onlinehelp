@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Install the ownCloud X Server
 category: ownCloud
 order: 1
 ---
