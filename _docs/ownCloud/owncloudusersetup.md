@@ -1,5 +1,5 @@
 ---
-title: Set up user account
+title: Add an user account
 category: ownCloud
 order: 3
 ---

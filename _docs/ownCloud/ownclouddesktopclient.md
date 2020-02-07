@@ -1,5 +1,5 @@
 ---
-title: Install ownCloud Desktop Client
+title: Set up the ownCloud Desktop Client
 category: ownCloud
 order: 4
 ---
