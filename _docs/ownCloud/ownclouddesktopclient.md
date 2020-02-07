@@ -1,7 +1,7 @@
 ---
 title: Install ownCloud Desktop Client
 category: ownCloud
-order: 1
+order: 4
 ---
 
 To install the ownCloud desktop client and connect to the ownCloud X Server:

@@ -1,7 +1,7 @@
 ---
 title: Set up user account
 category: ownCloud
-order: 1
+order: 3
 ---
 
 To Set up an user account:
