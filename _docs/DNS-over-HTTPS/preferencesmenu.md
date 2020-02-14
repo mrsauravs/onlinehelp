@@ -8,11 +8,9 @@ If you use Mozilla Firefox, you can configure DNS-over-HTTPS (DoH) through prefe
 
 Follow these steps:
 
-In menu, navigate to Tools > Preferences > General > Settings > Network Settings.
-1. Select Enable DNS over HTTPS.
-2. Choose any of the following to set DNS resolver:
+1. In the menu bar, navigate to Tools > Preferences > General > Settings > Network Settings.
+2. Select *Enable DNS over HTTPS*.
+3. Choose any of the following to set the DNS resolver:
 - (Default) Set Cloudfare.
 - Set a custom DNS resolver.
 
-
-<!--![](//placehold.it/800x600)--!>
