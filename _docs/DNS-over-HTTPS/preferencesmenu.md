@@ -1,6 +1,6 @@
 ---
-title: DNS-over-HTTPS
-category: Configure DoH through preferences menu
+title: Configure DoH through preferences menu
+category: DNS-over-HTTPS
 order: 1
 ---
 

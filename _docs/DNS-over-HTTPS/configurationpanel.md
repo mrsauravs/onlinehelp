@@ -1,6 +1,6 @@
 ---
-title: DNS-over-HTTPS
-category: Configure DoH through configuration panel
+title: Configure DoH through configuration panel
+category: DNS-over-HTTPS
 order: 2
 ---
 
