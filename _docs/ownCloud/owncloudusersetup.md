@@ -4,7 +4,7 @@ category: ownCloud
 order: 3
 ---
 
-To add a user:
+Follow these steps:
 
 1. Go to the [ownCloud server univention portal](https://192.168.0.102) page.
 2. Navigate to *Administration* > *System and domain settings* > *Users* > *ADD* and enter new user details.

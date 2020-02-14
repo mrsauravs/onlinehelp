@@ -4,7 +4,9 @@ category: ownCloud
 order: 4
 ---
 
-To install the ownCloud desktop client and connect to the ownCloud X Server:
+> Install the ownCloud desktop client and connect to the ownCloud X Server.
+
+Follow these steps:
 
 1. Go to the [ownCloud](https://owncloud.com/download/) installation page.
 2. Navigate to *ownCloud Desktop Clients* > *ownCloud Linux Client* and download the desktop client.

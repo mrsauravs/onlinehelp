@@ -4,7 +4,9 @@ category: ownCloud
 order: 2
 ---
 
-To configure ownCloud X Server on Oracle VM VirtualBox:
+> Configure ownCloud X Server on Oracle VM VirtualBox.
+
+Follow these steps:
 
 1. Open Oracle VM VirtualBox and start the ownCloud installed appliance.
  - *Tip*: Server boot might take upto five seconds.
