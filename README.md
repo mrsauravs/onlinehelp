@@ -1,66 +1,37 @@
-# Edition
+---
+description: Describes the most annoying tasks in the easiest way.
+---
 
-Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
-Start documenting your product, application, service or website with this configurable theme.
+# Inverse Lattice Help
 
-![Edition template screenshot](images/_screenshot.png)
+## Set up DNS-over-HTTPS in Mozilla Firefox
 
-Edition was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
+### Preferences Menu
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+ In menu, navigate to **Tools** &gt; **Preferences** &gt; **General** &gt; **Settings** &gt; **Network Settings.**
 
-## Features
+ Select **Enable DNS over HTTPS**.
 
-* Two column layout
-* Full text search
-* Pre-styled components
-* Auto-generated navigation based on category
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* Change log
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+Choose any of the following to set DNS resolver:
 
-## Setup
+* \(Default\) Set Cloudfare.
+* Set a custom DNS resolver.
 
-1. Add your site and author details in `_config.yml`.
-2. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+### **Configuration Panel**
 
-## Develop
+ Type **about:config** in the URL bar.
 
-Edition was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+ In the search area, type **network.ttr.mode** and set any of the following values:
 
-Install the dependencies with [Bundler](http://bundler.io/):
+*  **2:**  Turns on DoH and keeps the regular DNS only as a backup.
+*  **3:** Turns on DoH with no regular DNS support.
 
-~~~bash
-$ bundle install
-~~~
+ In the search area, type **network.ttr.uri** to set the domain name of the DNS resolver.
 
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
+*  The default Cloudfare URI is [https://mozilla.cloudflare-dns.com/dns-query](https://mozilla.cloudflare-dns.com/dns-query)
 
-~~~bash
-$ bundle exec jekyll serve
-~~~
+ \(Optional\). In the search area, type **network.ttr.bootstrapAddress** to set up IP address.
 
-## Editing
+*  Type **1.1.1.1** for **Cloudfare**.
+*  Type **8.8.8.8** for **Google**.
 
-Edition is already optimised for adding, updating and removing documentation pages in CloudCannon.
-
-### Documentation pages
-
-* Add, update or remove a documentation page in the *Documentation* collection.
-* Change the category of a documentation page to move it to another section in the navigation.
-* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
-
-### Change log
-
-* Add, update or remove change log entries from your posts.
-* Tag entries as minor or major in the front matter.
-
-### Search
-
-* Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
-
-### Navigation
-
-* Change `site.show_full_navigation` to control all or only the current navigation group being open.
