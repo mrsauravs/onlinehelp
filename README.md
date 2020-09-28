@@ -1,5 +1,5 @@
 ---
-description: Describes the most annoying tasks in the easiest way.
+description: The most annoying task in the easiest way possible.
 ---
 
 # Inverse Lattice Help
